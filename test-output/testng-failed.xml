@@ -8,11 +8,6 @@
           <include name="run"/>
         </methods>
       </class> <!-- package2.sample1 -->
-      <class name="package2.sample2">
-        <methods>
-          <include name="run2"/>
-        </methods>
-      </class> <!-- package2.sample2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
